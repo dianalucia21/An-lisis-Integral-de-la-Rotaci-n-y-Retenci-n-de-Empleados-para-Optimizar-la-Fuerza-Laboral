@@ -101,3 +101,5 @@ Registra los cambios de puesto o departamento de un empleado, incluyendo las raz
 * puesto\_id (INT, FOREIGN KEY, NULLABLE): Puesto asociado a este periodo.  
 * razon\_cambio (VARCHAR(100)): Razón del cambio (e.g., 'Promoción', 'Transferencia', 'Reestructuración', 'Renuncia', 'Despido', 'Cambio salarial'). Este campo puede incluir cambios salariales significativos para trazar el historial de compensación.  
 * detalles\_cambio (TEXT, NULLABLE): Descripción más detallada del evento.
+
+![graf_RRHH](https://github.com/user-attachments/assets/d5899f71-0c1c-4025-9b8e-38e14cd7d864)
